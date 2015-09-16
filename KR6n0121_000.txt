@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 觀總相論頌
+#+DATE: 2015-08-30 20:58:40.055203
+#+PROPERTY: JUAN 0
