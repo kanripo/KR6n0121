@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:40.283213
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:47
 #+TITLE: 觀總相論頌
 #+PROPERTY: CBETA_ID T31n1623
 #+PROPERTY: ID KR6n0121
@@ -63,7 +63,7 @@ No. 1623¶
 　有餘復意樂
 　此中名義二¶
 　有三種差別
-　謂聲并義二
+　謂聲并義二」
 #+END_VERSE
-」¶
+¶
 《觀總相論頌》
