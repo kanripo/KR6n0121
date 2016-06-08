@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:39.864252
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:47
 #+TITLE: 觀總相論頌
 #+PROPERTY: CBETA_ID T31n1623
 #+PROPERTY: ID KR6n0121
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1623
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0121_T_000-0887c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0121_T_001-0887c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1623¶
-
- 《觀總相論頌》一卷¶
+No. 1623¶
+《觀總相論頌》一卷¶
 ¶
 陳那菩薩造¶
 三藏法師義淨奉　制譯¶
@@ -64,7 +63,7 @@ No.1623¶
 　有餘復意樂
 　此中名義二¶
 　有三種差別
-　謂聲并義二
+　謂聲并義二」
 #+END_VERSE
-」¶
+¶
 《觀總相論頌》一卷
